@@ -1,7 +1,3 @@
-Here's a sample `README.md` file template you can use for your GitHub project. It explains the dynamic memory allocation using a doubly linked list and the operations on a CSV file, based on the details you've provided. You can modify it as needed.
-
----
-
 # CSV Linked List Operations with Dynamic Memory Allocation
 
 This project demonstrates the use of dynamic memory allocation to create and manipulate a doubly linked list from a CSV file. It reads data from a CSV file, constructs a doubly linked list dynamically, allows the user to perform various operations, and saves the modified data back to a new CSV file (`new2.csv`).
