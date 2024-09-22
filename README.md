@@ -22,8 +22,6 @@ This project demonstrates the use of dynamic memory allocation to create and man
 - `new2.csv`: Output file that stores the updated list.
 - `input.csv`: Sample input file with the original data.
 
-## How to Run
-
 ### Prerequisites
 - C compiler (e.g., GCC,devc++)
 - A CSV file named `input.csv` in the same directory as the executable or path.
@@ -51,8 +49,6 @@ ID,Name,Age,Occupation
 ## Memory Management
 The program dynamically allocates memory for each node of the doubly linked list and ensures proper memory deallocation when records are deleted or the program terminates.
 
-## Video Demonstration
-A video tutorial on how to use the program is available [here](#) (add a link to your video).
 
 ## Contributions
 Contributions are welcome! Feel free to fork the repository and submit a pull request with any improvements or new features.
